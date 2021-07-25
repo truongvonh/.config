@@ -19,3 +19,8 @@ $ ln -s -f .tmux/.tmux.conf
 $ cp .tmux/.tmux.conf.local .
 ```
 
+## How my neovim look like
+
+![image](https://user-images.githubusercontent.com/47941107/126905069-0d1a9541-2163-4503-98bc-8aef7d4cbcd0.png)
+![image](https://user-images.githubusercontent.com/47941107/126905056-ca8614fd-f3c0-4bb9-ade6-0df258e123b7.png)
+
