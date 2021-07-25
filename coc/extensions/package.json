@@ -12,7 +12,7 @@
     "coc-snippets": ">=2.4.3",
     "coc-tag": ">=1.2.5",
     "coc-tslint-plugin": ">=1.2.0",
-    "coc-tsserver": ">=1.8.1",
+    "coc-tsserver": ">=1.8.2",
     "coc-vimlsp": ">=0.12.2",
     "coc-yaml": ">=1.4.2"
   }
