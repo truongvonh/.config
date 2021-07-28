@@ -1,3 +1,0 @@
-2021-06-09 01:14:56,181 DEBUG    root            Loaded Command Group: ['gcloud', 'functions']
-2021-06-09 01:14:56,200 DEBUG    root            Loaded Command Group: ['gcloud', 'functions', 'deploy']
-2021-06-09 01:14:56,213 ERROR    root            (gcloud.functions.deploy) argument --runtime: expected one argument

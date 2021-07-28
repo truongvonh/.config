@@ -1,3 +1,0 @@
-2021-06-09 01:12:59,040 DEBUG    root            Loaded Command Group: ['gcloud', 'functions']
-2021-06-09 01:12:59,065 DEBUG    root            Loaded Command Group: ['gcloud', 'functions', 'deploy']
-2021-06-09 01:12:59,079 ERROR    root            (gcloud.functions.deploy) argument (NAME : --region=REGION): Must be specified.

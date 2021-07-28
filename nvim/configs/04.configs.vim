@@ -1,8 +1,7 @@
 inoremap jk <ESC>
 nmap <C-t> :NERDTreeToggle<CR>
-vmap ++ <plug>NERDCommenterToggle
-nmap ++ <plug>NERDCommenterToggle
-nmap <C-/> :NERDCommenterToggle
+vmap mm <plug>NERDCommenterToggle
+nmap mm <plug>NERDCommenterToggle
 "autocmd StdinReadPre * let s:std_in=1
 "autocmd VimEnter * NERDTree
 
@@ -17,7 +16,7 @@ let g:NERDTreeGitStatusWithFlags = 1
     "\ "Unmerged"  : "#FC51E6",  
     "\ "Dirty"     : "#FFBD61",  
     "\ "Clean"     : "#87939A",   
-    "\ "Ignored"   : "#808080"   
+    \ "Ignored"   : "#808080"   
     "\ }                         
 
 
@@ -50,6 +49,8 @@ set shiftwidth=2
 set expandtab
 
 colorscheme gruvbox
+"colorscheme papaya
+"let g:papaya_gui_color='blue'
 
 " sync open file with NERDTree
 " " Check if NERDTree is open or active
@@ -216,9 +217,9 @@ set t_Co=256
 
 
 "==================== NEOVIM INDENT CONFIG ==================== 
-let g:indentLine_char_list = ['|'] 
+"let g:indentLine_char_list = ['|'] 
 let g:indentLine_conceallevel = 2
-set tabstop=2 " number of visual spaces per TAB
-set softtabstop=2 " number of spaces per tab when editing
-set shiftwidth=2 " spaces to insert or remove using the indentation commands
+"set tabstop=2 " number of visual spaces per TAB
+"set softtabstop=2 " number of spaces per tab when editing
+"set shiftwidth=2 " spaces to insert or remove using the indentation commands
 "=======================================================================

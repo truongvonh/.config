@@ -1,2 +1,5 @@
-yarn/global/node_modules
-node_modules/
+configstore
+htop
+gatsby
+firebase
+gcloud
